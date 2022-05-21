@@ -1,0 +1,4 @@
+#API Key
+config.js
+# ignore ds store
+.DS_Store 
