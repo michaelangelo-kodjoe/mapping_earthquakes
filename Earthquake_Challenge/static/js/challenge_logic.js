@@ -170,7 +170,7 @@ d3.json('https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/4.5_week.geoj
   }
   }).addTo(majorEQ);
 
-  //  Add the major earthquakes layer to the map.
+  //  we add the major earthquakes layer to the map.
   majorEQ.addTo(map)
 //  Close the braces and parentheses for the major earthquake data.
 });
